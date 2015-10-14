@@ -1,2 +1,2 @@
 # presentations
-Presentations I've given with supporting material.
+This repository contains presentations I've given and their supporting materials.
