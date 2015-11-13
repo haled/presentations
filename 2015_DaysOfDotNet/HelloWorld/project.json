@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+  "description": "Gratuitous Hello World",
+
+  "dependencies": {},
+
+  "commands": {
+    "run": "HelloWorld"
+  },
+
+  "frameworks": {
+    "dnx451": {}
+  }
+}
